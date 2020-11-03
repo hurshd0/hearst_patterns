@@ -1,6 +1,6 @@
 # Hearst Pattern Finder
 
-Implementation of Hearst patterns[1] for finding hypernym/hyponym pairs using Spacy in Python.
+Implementation of Hearst patterns [1] for finding hypernym/hyponym pairs using Spacy in Python.
 
 
 
